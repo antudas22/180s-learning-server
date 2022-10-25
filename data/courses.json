@@ -4,5 +4,35 @@
         "title": "HTML",
         "description": "HTML",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+        "_id": "01",
+        "title": "CSS",
+        "description": "CSS",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+    },
+    {
+        "_id": "01",
+        "title": "Bootstrap",
+        "description": "Bootstrap",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
+    },
+    {
+        "_id": "01",
+        "title": "JavaScript",
+        "description": "JavaScript",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "_id": "01",
+        "title": "React",
+        "description": "React",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+    },
+    {
+        "_id": "01",
+        "title": "NodeJS",
+        "description": "NodeJS",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"
     }
 ]
