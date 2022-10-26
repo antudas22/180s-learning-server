@@ -27,10 +27,20 @@ app.get('/category/:id', (req, res) => {
     }
 })
 
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
+
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
     const selectedCourses = courses.find(course => course._id === id);
     res.send(selectedCourses);
+})
+
+app.get('/premium/:id', (req, res) => {
+    const id = req.params.id;
+    const premiumCourses = courses.find(course => course._id === id);
+    res.send(premiumCourses); 
 })
 
 app.listen(port, () => {
